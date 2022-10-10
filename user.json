@@ -1,0 +1,73 @@
+[
+{
+"image":"images/AJ1lowfragment.png",
+"sneaker": "Air Jordan 1 low fragment",
+"price":"$1200"
+},
+
+{
+"image":"images/AJ 1lowreversemocha.png",
+"sneaker":"Air Jordan 1 Reverse Mocha",
+"price":"$950"
+},
+
+{
+"image":"images/AJ1lowmocha.png",
+"sneaker":"Air Jordan 1 mocha",
+"price":"$1100"
+},
+
+{
+"image":"images/AJ3Blackcement.png",
+"sneaker":"Air Jordan 3 Black Cement",
+"price":"$300"
+},
+
+{
+"image":"images/AJ4bred.png",
+"sneaker":"Air Jordan 4 Bred",
+"price":"$450"
+},
+
+{
+"image":"images/AJ1OGBanned.png",
+"sneaker":"Air Jordan 1 OG Banned",
+"price":"$850"
+},
+
+{
+"image":"images/AJ11Concord.png",
+"sneaker":"Air Jordan 11 Concord",
+"price":"$500"
+},
+
+{
+"image":"images/AJ11Bred.png",
+"sneaker":"Air Jordan 11 Bred",
+"price":"$400"
+},
+
+{
+"image":"images/AJ11SpaceJam.png",
+"sneaker":"Air Jordan 11 Space Jam",
+"price":"$650"
+},
+
+{
+"image":"images/AJ12Playoffs.png",
+"sneaker":"Air Jordan 12 Playoffs",
+"price":"$200"
+},
+
+{
+"image":"images/AJ12Flugame.png",
+"sneaker":"Air Jordan 12 Flu Game",
+"price":"$300"
+},
+
+{
+"image":"images/AJ14lastshots.png",
+"sneaker":"Air Jordan 14 Last Shot",
+"price":"$250"
+}
+]
